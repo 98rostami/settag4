@@ -1,4 +1,4 @@
-pyrogram==2.0.30
+pyrogram
 tgCrypto
-mutagen==1.45.1
-Pillow==9.3.0
+mutagen
+Pillow
